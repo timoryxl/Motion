@@ -3,4 +3,7 @@
 This is for Testing Github on learning purpose.
 
 Next will be branching
+
 Add another line, modifying commit
+
+Add more to this branch
